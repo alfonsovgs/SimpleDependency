@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleDependency", "SimpleDependency\SimpleDependency.csproj", "{8887C301-F8EA-47BE-BBD1-0603471450B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8887C301-F8EA-47BE-BBD1-0603471450B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8887C301-F8EA-47BE-BBD1-0603471450B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8887C301-F8EA-47BE-BBD1-0603471450B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8887C301-F8EA-47BE-BBD1-0603471450B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BE7C87F-7338-4654-8BC2-C86FA71A0900}
+	EndGlobalSection
+EndGlobal
